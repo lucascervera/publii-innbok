@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>innbok.com</title>
-    <link href="https://lucascervera.github.io/publii-lc-website-template/feed.xml" rel="self" />
-    <link href="https://lucascervera.github.io/publii-lc-website-template" />
+    <link href="https://innbok.com/feed.xml" rel="self" />
+    <link href="https://innbok.com" />
     <updated>2023-01-15T08:50:37+01:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
-    <id>https://lucascervera.github.io/publii-lc-website-template</id>
+    <id>https://innbok.com</id>
 
     <entry>
         <title>LC Block page</title>
         <author>
             <name>Lucas Cervera</name>
         </author>
-        <link href="https://lucascervera.github.io/publii-lc-website-template/lc-block-page/"/>
-        <id>https://lucascervera.github.io/publii-lc-website-template/lc-block-page/</id>
+        <link href="https://innbok.com/lc-block-page/"/>
+        <id>https://innbok.com/lc-block-page/</id>
 
         <updated>2023-01-15T08:50:37+01:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://lucascervera.github.io/publii-lc-website-template/media/posts/3/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy.jpg" height="142" width="190" alt="lc alt text"  sizes="100vw" srcset="https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xs.jpg 300w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-sm.jpg 480w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-md.jpg 768w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-lg.jpg 1024w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xl.jpg 1360w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-2xl.jpg 1600w">
+      <img loading="lazy" src="https://innbok.com/media/posts/3/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy.jpg" height="142" width="190" alt="lc alt text"  sizes="100vw" srcset="https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xs.jpg 300w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-sm.jpg 480w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-md.jpg 768w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-lg.jpg 1024w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xl.jpg 1360w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-2xl.jpg 1600w">
       <figcaption>lc caption</figcaption>
     </figure>
 
@@ -42,8 +42,8 @@
         <author>
             <name>Lucas Cervera</name>
         </author>
-        <link href="https://lucascervera.github.io/publii-lc-website-template/lc-wysiwyg-page/"/>
-        <id>https://lucascervera.github.io/publii-lc-website-template/lc-wysiwyg-page/</id>
+        <link href="https://innbok.com/lc-wysiwyg-page/"/>
+        <id>https://innbok.com/lc-wysiwyg-page/</id>
 
         <updated>2023-01-15T08:45:01+01:00</updated>
             <summary>
@@ -54,7 +54,7 @@
         <content type="html">
             <![CDATA[
                 <p>LC Content</p>
-<figure ><figure class="post__image post__image--left"><img loading="lazy"  src="https://lucascervera.github.io/publii-lc-website-template/media/posts/2/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6.jpg" alt="" width="600" height="400" sizes="100vw" srcset="https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xs.jpg 300w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-sm.jpg 480w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-md.jpg 768w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-lg.jpg 1024w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xl.jpg 1360w ,https://lucascervera.github.io/publii-lc-website-template/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-2xl.jpg 1600w"></figure>
+<figure ><figure class="post__image post__image--left"><img loading="lazy"  src="https://innbok.com/media/posts/2/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6.jpg" alt="" width="600" height="400" sizes="100vw" srcset="https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xs.jpg 300w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-sm.jpg 480w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-md.jpg 768w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-lg.jpg 1024w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xl.jpg 1360w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-2xl.jpg 1600w"></figure>
 <figcaption >Caption</figcaption>
 </figure>
 <p> </p>
@@ -66,20 +66,20 @@
         <author>
             <name>Lucas Cervera</name>
         </author>
-        <link href="https://lucascervera.github.io/publii-lc-website-template/lc-markdown-page-title/"/>
-        <id>https://lucascervera.github.io/publii-lc-website-template/lc-markdown-page-title/</id>
-        <media:content url="https://lucascervera.github.io/publii-lc-website-template/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" medium="image" />
+        <link href="https://innbok.com/lc-markdown-page-title/"/>
+        <id>https://innbok.com/lc-markdown-page-title/</id>
+        <media:content url="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" medium="image" />
 
         <updated>2023-01-15T08:46:24+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://lucascervera.github.io/publii-lc-website-template/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" alt="" />
+                        <img src="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" alt="" />
                     LC section LC content
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lucascervera.github.io/publii-lc-website-template/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" class="type:primaryImage" alt="" /></p>
                 <h2 id="lc-section">LC section</h2>
 <p>LC content</p>
 
