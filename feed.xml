@@ -3,12 +3,60 @@
     <title>innbok.com</title>
     <link href="https://innbok.com/feed.xml" rel="self" />
     <link href="https://innbok.com" />
-    <updated>2023-01-15T11:37:46+01:00</updated>
+    <updated>2023-04-20T17:29:39+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
     <id>https://innbok.com</id>
 
+    <entry>
+        <title>InnBoK modeler</title>
+        <author>
+            <name>Lucas Cervera</name>
+        </author>
+        <link href="https://innbok.com/innbok-modeler/"/>
+        <id>https://innbok.com/innbok-modeler/</id>
+        <media:content url="https://innbok.com/media/posts/9/2023-04-20_17-29.png" medium="image" />
+
+        <updated>2023-04-20T17:29:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://innbok.com/media/posts/9/2023-04-20_17-29.png" alt="" />
+                    Business Modeling Done Right Unificado en 1 sólo sitio InnBoK Modeler centraliza la información de tu modelo de negocio en un solo lugar, evitando la dispersión de datos en múltiples archivos. Esto facilita la actualización, el mantenimiento y la visualización de los componentes del modelo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://innbok.com/media/posts/9/2023-04-20_17-29.png" class="type:primaryImage" alt="" /></p>
+                <h2 id="business-modeling-done-right">Business Modeling Done Right</h2>
+<h4 id="unificado-en-1-sólo-sitio">Unificado en 1 sólo sitio</h4>
+<p>InnBoK Modeler centraliza la información de tu modelo de negocio en un solo lugar, evitando la dispersión de datos en múltiples archivos. Esto facilita la actualización, el mantenimiento y la visualización de los componentes del modelo de negocio en diferentes contextos.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-11_1681999959029_0.png" alt="Image description" width="667" height="444"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-11_1681999959029_0-2xl.png 1600w"></figure></p>
+<h4 id="contenidos-precargados">Contenidos precargados</h4>
+<p>InnBoK Modeler te facilita una lista de canales y otras herramientas para que puedas incorporarlos a tu modelo de negocio sin partir de cero.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-13_1682000067780_0.png" alt="Image description" width="364" height="458"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-13_1682000067780_0-2xl.png 1600w"></figure></p>
+<h4 id="tareas-y-experimentación">Tareas y experimentación</h4>
+<p>Nuestra plataforma facilita la gestión de tareas relacionadas con tu modelo de negocio, te ayuda a priorizar y a ejecutar experimentos de manera eficiente.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-15_1682000180705_0.png" alt="Image description" width="763" height="401"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-15_1682000180705_0-2xl.png 1600w"></figure></p>
+<h2 id="metodología-y-documentación">Metodología y documentación</h2>
+<p>InnBoK Modeler se basa en las metodologías de innovación más populares, como Lean Startup, Customer Development y Design Thinking, integrándolas y evitando solapes entre ellas. Además, te proporciona la información que necesitas en cada momento para seguir el proceso de creación de tu modelo de negocio.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-19_1682000377791_0.png" alt="Image description" width="936" height="696"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-19_1682000377791_0-2xl.png 1600w"></figure></p>
+<h4 id="plantillas-verticales-y-personalizables">Plantillas verticales y personalizables</h4>
+<p>Trabaja con las herramientas que conoces, como el Business Model Canvas, para introducir información y adaptarlas a las necesidades de tu negocio.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-22_1682000550829_0-3.png" alt="Image description" width="696" height="456"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-22_1682000550829_0-3-2xl.png 1600w"></figure></p>
+<h4 id="ciclo-completo-diseño-análisis-y-validación">Ciclo completo: diseño, análisis y validación</h4>
+<p>InnBoK Modeler te permite diseñar, analizar y validar tu modelo de negocio de manera sistemática y dinámica, utilizando la inteligencia artificial para identificar los aspectos que requieren más atención.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-24_1682000669103_0.png" alt="Image description" width="609" height="678"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-24_1682000669103_0-2xl.png 1600w"></figure></p>
+<h4 id="exportable-y-expandible">Exportable y expandible</h4>
+<p>Utiliza contenidos de InnBoK Modeler para comunicar tu modelo de negocio a trabajadores, inversores y otros stakeholders. Exporta fácilmente tu modelo en formato web, PDF o imagen.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/graph_1682000819597_0.png" alt="Image description" width="1812" height="1960"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/graph_1682000819597_0-2xl.png 1600w"></figure></p>
+<h4 id="basado-en-logseq-y-open-source">Basado en LogSeq y open source</h4>
+<p>InnBoK Modeler utiliza tecnologías como <a href="https://logseq.com/">LogSeq</a>, Markdown y texto plano diffs, lo que garantiza que la información sea siempre tuya y fácilmente traducible. Además, como es open source y gratuito, puedes estar seguro de que tu modelo de negocio está respaldado por una comunidad activa.
+<figure class="post__image"><img loading="lazy" src="https://innbok.com/media/posts/9/2023-04-20_16-27_1682000909812_0.png" alt="Image description" width="766" height="572"  sizes="100vw" srcset="https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-xs.png 300w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-sm.png 480w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-md.png 768w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-lg.png 1024w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-xl.png 1360w ,https://innbok.com/media/posts/9/responsive/2023-04-20_16-27_1682000909812_0-2xl.png 1600w"></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lucas Rodriguez Cervera Privacy Policy</title>
         <author>
@@ -101,15 +149,15 @@ Should you wish to report a complaint or if you feel that Lucas Rodriguez Cerver
         <author>
             <name>Lucas Cervera</name>
         </author>
-        <link href="https://innbok.com/innbok-3/"/>
-        <id>https://innbok.com/innbok-3/</id>
+        <link href="https://innbok.com/innbok/"/>
+        <id>https://innbok.com/innbok/</id>
         <media:content url="https://innbok.com/media/posts/6/InnBoK-Business-Modeler.png" medium="image" />
 
-        <updated>2023-01-15T11:37:46+01:00</updated>
+        <updated>2023-04-01T12:54:04+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://innbok.com/media/posts/6/InnBoK-Business-Modeler.png" alt="" />
-                    Smart Business Modeling. Build better business models faster Contact us! Join waitlist Design, analyze and validate your Business Model Integrated framework that includes most used Business Modeling tools Save time with pre-filled Business Model components Your Business Model is dynamic. Your Business Model in a single&hellip;
+                    Smart Business Modeling. Build better business models faster Contact us! Join waitlist InnBoK InnBoK2 InnBoK InnBoK2 InnBoK InnBoK2 test
                 ]]>
             </summary>
         <content type="html">
@@ -160,83 +208,13 @@ Should you wish to report a complaint or if you feel that Lucas Rodriguez Cerver
 <li>Keep your Business Model up-to-date with minimal effort</li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://innbok.com/media/posts/6/Brainn.org-5.png" alt="" width="466" height="260" sizes="100vw" srcset="https://innbok.com/media/posts/6/responsive/Brainn.org-5-xs.png 300w ,https://innbok.com/media/posts/6/responsive/Brainn.org-5-sm.png 480w ,https://innbok.com/media/posts/6/responsive/Brainn.org-5-md.png 768w ,https://innbok.com/media/posts/6/responsive/Brainn.org-5-lg.png 1024w ,https://innbok.com/media/posts/6/responsive/Brainn.org-5-xl.png 1360w ,https://innbok.com/media/posts/6/responsive/Brainn.org-5-2xl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>LC Block page</title>
-        <author>
-            <name>Lucas Cervera</name>
-        </author>
-        <link href="https://innbok.com/lc-block-page/"/>
-        <id>https://innbok.com/lc-block-page/</id>
-
-        <updated>2023-01-15T08:50:37+01:00</updated>
-            <summary>
-                <![CDATA[
-                    lc caption blah blah
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://innbok.com/media/posts/3/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy.jpg" height="142" width="190" alt="lc alt text"  sizes="100vw" srcset="https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xs.jpg 300w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-sm.jpg 480w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-md.jpg 768w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-lg.jpg 1024w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-xl.jpg 1360w ,https://innbok.com/media/posts/3/responsive/Moderator-at-round-table-about-entrepreneurship-organized-by-Salon-Mi-Empresa-in-Madrid-copy-2xl.jpg 1600w">
-      <figcaption>lc caption</figcaption>
-    </figure>
-
-  <p>
-    blah blah
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>LC WYSIWYG page</title>
-        <author>
-            <name>Lucas Cervera</name>
-        </author>
-        <link href="https://innbok.com/lc-wysiwyg-page/"/>
-        <id>https://innbok.com/lc-wysiwyg-page/</id>
-
-        <updated>2023-01-15T08:45:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                    LC Content
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>LC Content</p>
-<figure ><figure class="post__image post__image--left"><img loading="lazy"  src="https://innbok.com/media/posts/2/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6.jpg" alt="" width="600" height="400" sizes="100vw" srcset="https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xs.jpg 300w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-sm.jpg 480w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-md.jpg 768w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-lg.jpg 1024w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-xl.jpg 1360w ,https://innbok.com/media/posts/2/responsive/01-Panelist-at-round-table-about-entrepreneurship-organized-by-Foro-Ayuda-a-Emprender-and-Caixa-Forum-in-Madrid-6-2xl.jpg 1600w"></figure>
-<figcaption >Caption</figcaption>
-</figure>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>LC markdown page title</title>
-        <author>
-            <name>Lucas Cervera</name>
-        </author>
-        <link href="https://innbok.com/lc-markdown-page-title/"/>
-        <id>https://innbok.com/lc-markdown-page-title/</id>
-        <media:content url="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" medium="image" />
-
-        <updated>2023-01-15T08:46:24+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" alt="" />
-                    LC section LC content
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://innbok.com/media/posts/1/00027-1518422976-A-portait-of-lc-as-a-teenager-similar-to-marty-mcfly-vintage-comic-character.png" class="type:primaryImage" alt="" /></p>
-                <h2 id="lc-section">LC section</h2>
-<p>LC content</p>
-
+<p><a href="https://innbok.com/null" target="_blank" rel="noopener noreferrer">InnBoK</a></p>
+<p><a href="/md/index.html" target="_blank" rel="noopener noreferrer">InnBoK</a>2</p>
+<p><a href="https://innbok.com/null" target="_blank" rel="noopener noreferrer">InnBoK</a></p>
+<p><a href="./md/index.html" target="_blank" rel="noopener">InnBoK</a>2</p>
+<p><a href="https://innbok.com/null" target="_blank" rel="noopener noreferrer">InnBoK</a></p>
+<p><a href="../md/index.html" target="_blank" rel="noopener noreferrer">InnBoK</a>2</p>
+<p><a href="https://innbok.com/test" target="_blank" rel="noopener noreferrer"></a><a href="https://innbok.com/test" target="_blank" rel="noopener noreferrer">test</a></p>
             ]]>
         </content>
     </entry>
