@@ -3,7 +3,7 @@
     <title>innbok.com</title>
     <link href="https://innbok.com/feed.xml" rel="self" />
     <link href="https://innbok.com" />
-    <updated>2023-05-26T11:21:18+02:00</updated>
+    <updated>2023-09-08T19:09:15+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://innbok.com/innbok-modeler/</id>
         <media:content url="https://innbok.com/media/posts/9/2023-04-20_17-29.png" medium="image" />
 
-        <updated>2023-05-26T11:21:18+02:00</updated>
+        <updated>2023-09-08T19:09:15+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://innbok.com/media/posts/9/2023-04-20_17-29.png" alt="" />
@@ -29,6 +29,8 @@
             <![CDATA[
                     <p><img src="https://innbok.com/media/posts/9/2023-04-20_17-29.png" class="type:primaryImage" alt="" /></p>
                 <h1 id="business-modeling-done-right">Business Modeling Done Right</h1>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/bqxA7dBqQ04?si=EQSGVDOAcqYDaaTP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 <table>
 <thead>
 <tr>
@@ -52,6 +54,44 @@
 <p>Use InnBoK Modeler’s content to communicate your business model to employees, investors, and other stakeholders. Easily export your model in web, PDF, or image format.</p>
 <h2 id="based-on-logseq-and-open-source">Based on LogSeq and open source</h2>
 <p>LogSeq is a note-taking and knowledge management tool that provides a structured and interconnected approach to organizing information and creating a network of linked notes. LogSeq allows users to create and link together blocks of text, create bi-directional links between related ideas, and navigate their notes in a non-linear manner. It uses Markdown, a lightweight markup language that allows users to format their notes using plain text syntax. LogSeq is designed to be a local-first application, which means that users have full control over their data, and their notes are stored locally on their devices. As an open-source project, LogSeq is actively developed and maintained by a community of contributors. InnBoK applies this approach to business modeling.</p>
+<h2 id="innmodeler-features">InnMoDeler Features</h2>
+<h3 id="business-model-management">Business Model Management:</h3>
+<p>Descriptive information for each business model element.
+List of examples for each business model element.
+Suggested lists of possible elements for the business model.
+AI-powered suggestions for business model elements.
+Step-by-step guides for completing the business model.
+Integration with familiar methodologies and tools (e.g., Lean Startup, Business Model Canvas).</p>
+<h3 id="single-data-architecture">Single Data Architecture:</h3>
+<p>Single point of truth for data entry.
+Ensures up-to-date business model data.
+Avoids data scattering and repetition.</p>
+<h3 id="navigation--visualization">Navigation &amp; Visualization:</h3>
+<p>Content tree navigation.
+Relationship visualization between business model elements.
+Pop-up windows for content details.
+Step-by-step guides for business model generation.</p>
+<h3 id="data-storage">Data Storage:</h3>
+<p>Data stored in plain text MarkDown format files.
+User-defined storage location.
+Easy version control and backup.
+Independence from server access.</p>
+<h3 id="guidance--methodology">Guidance &amp; Methodology:</h3>
+<p>Task lists and precise instructions.
+Integration with the innovation body of knowledge (innBoK).</p>
+<h3 id="business-model-analysis">Business Model Analysis:</h3>
+<p>Priority actions based on business maturity.
+Importance and uncertainty markers.
+Business key evaluation for strengths and weaknesses.
+Commenting feature.
+Risk visibility and mitigation paths.
+Review facilitation for advisors and mentors.</p>
+<h3 id="business-model-validation">Business Model Validation:</h3>
+<p>Guidance on experiments for validation.
+Business model improvement proposals.
+Conclusions recording after experiment execution.</p>
+<h3 id="document-generation">Document Generation:</h3>
+<p>Generate various documents like business plans, pitch decks, and employee guides using InnMoDeler data.</p>
 
             ]]>
         </content>
